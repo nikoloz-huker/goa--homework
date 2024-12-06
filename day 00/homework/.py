@@ -67,16 +67,6 @@ forward(35)
 right(90)
 forward(40)
 end_fill()
-
-#end of drawing second window
-
-#drawing a roof
-
-color("red")
-penup()
-goto(200 , 200)
-pendown()
-begin_fill()
 right(150)
 forward(170)
 left(110)
